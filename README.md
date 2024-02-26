@@ -23,7 +23,7 @@ Ce projet vise à implémenter le Game of Life en Python, permettant aux utilisa
 Voici comment exécuter le Game of Life :
 
 ```
-python game_of_life.py -i input.txt -o output.txt -m 100 -d -f 10
+python gameoflife.py -i input.txt -o output.txt -m 100 -d -f 10
 ```
 
 - `-i input.txt` : spécifie le fichier contenant l'état initial.
